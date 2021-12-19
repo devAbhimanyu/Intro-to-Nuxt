@@ -1,9 +1,7 @@
 <template>
-  <Tutorial/>
+  <section class="container">Home component</section>
 </template>
 
 <script>
-export default {
-  name: 'IndexPage'
-}
+export default {};
 </script>
